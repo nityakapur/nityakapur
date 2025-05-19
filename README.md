@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Nitya Kapur</h1>
-<h3 align="center">A GenAI and Computer Vision Contributor</h3>
+<h3 align="center">A GenAI & Computer Vision Enthusiast 🚀</h3>
 
-- 👯 I’m looking to collaborate on **Machine Learning/Deep Learning Projects**
-- 📝 Blog Link: [https://dsafordummies.digitalpress.blog/](https://dsafordummies.digitalpress.blog/)
-- 📫 Reach me at **nityakapurr@gmail.com**
-<p align="left">
+<p align="center">
+  👯 Looking to collaborate on <strong>Machine Learning / Deep Learning Projects</strong><br>
+  📝 Blog: <a href="https://dsafordummies.digitalpress.blog/" target="_blank">dsafordummies.digitalpress.blog</a><br>
+  📫 Reach me at: <a href="mailto:nityakapurr@gmail.com">nityakapurr@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank"><img title="Python" alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+  <a href="https://pytorch.org/" target="_blank"><img title="PyTorch" alt="PyTorch" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img title="TensorFlow" alt="TensorFlow" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img title="Scikit-Learn" alt="Scikit-Learn" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a>
+  <a href="https://opencv.org/" target="_blank"><img title="OpenCV" alt="OpenCV" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img title="Pandas" alt="Pandas" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img title="Seaborn" alt="Seaborn" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img title="C Language" alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img title="C++" alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
+</p>
