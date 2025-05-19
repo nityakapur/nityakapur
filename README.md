@@ -23,3 +23,6 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img title="C++" alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nityakapur&show_icons=true&locale=en&layout=compact" alt="nityakapur"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nityakapur&" alt="nityakapur" /></p>
