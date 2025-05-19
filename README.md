@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nitya Kapur</h1>
+<h2 align="center">Hi there, I'm Nitya Kapur!</h1>
 <h3 align="center">A GenAI & Computer Vision Enthusiast 🚀</h3>
 
 <p align="center">
