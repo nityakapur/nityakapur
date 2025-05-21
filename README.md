@@ -1,7 +1,7 @@
-<h2 align="center">Hi there, I'm Nitya Kapur!</h1>
-<h3 align="center">A GenAI & Computer Vision Enthusiast 🚀</h3>
+<h2 align="left">Hi there, I'm Nitya Kapur!</h1>
+<h3 align="left">A GenAI & Computer Vision Enthusiast 🚀</h3>
 
-<p align="center">
+<p align="left">
   👯 Looking to collaborate on <strong>Machine Learning / Deep Learning Projects</strong><br>
   📝 Blog: <a href="https://dsafordummies.digitalpress.blog/" target="_blank">dsafordummies.digitalpress.blog</a><br>
   📫 Reach me at: <a href="mailto:nityakapurr@gmail.com">nityakapurr@gmail.com</a>
@@ -9,9 +9,9 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org" target="_blank"><img title="Python" alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
   <a href="https://pytorch.org/" target="_blank"><img title="PyTorch" alt="PyTorch" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img title="TensorFlow" alt="TensorFlow" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a>
@@ -26,6 +26,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nityakapur&show_icons=true&locale=en&layout=compact" alt="nityakapur"/>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nityakapur&" alt="nityakapur" /></p>
+<h3 align="left">GitHub Stats</h3>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nityakapur&show_icons=true&locale=en&layout=compact" alt="nityakapur"/>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nityakapur&" alt="nityakapur" /></p>
