@@ -1,95 +1,124 @@
-<!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:171B35,100:5427A8&height=180&section=header&text=NITYA.EXE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%20BUILDER%20%2F%20EXPLORER&descAlignY=60&descSize=14" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:252044,100:433878&height=150&section=header&text=NITYA%20KAPUR&fontSize=52&fontColor=EAE6FF&animation=fadeIn&fontAlignY=45&desc=SOFTWARE%20ENGINEER%20%20%2F%20BUILDER%20%2F%20EXPLORER&descAlignY=75&descSize=13" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=7CDBA5&center=true&vCenter=true&width=600&lines=Building+things+that+should+exist.;Curiosity+is+my+favourite+dependency.;Engineering+by+day.+Side+quests+by+night.;BUILD+%2F+EXPLORE+%2F+BREAK+%2F+REPEAT." />
+[![GitHub](https://img.shields.io/badge/GITHUB-181825?style=flat-square&logo=github&logoColor=white)](https://github.com/nityakapur)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-181825?style=flat-square&logo=linkedin&logoColor=9B8AEF)](https://www.linkedin.com/in/nitya-kapur/)
+[![Kaggle](https://img.shields.io/badge/KAGGLE-181825?style=flat-square&logo=kaggle&logoColor=9B8AEF)](https://www.kaggle.com/nityakapur)
 
-<br/>
+</div>
 
-<a href="https://github.com/nityakapur"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/nitya-kapur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/nityakapur"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### `~/about`
+
+Software engineer interested in building useful things, understanding how systems work, and experimenting beyond the usual stack.
+
+**Currently exploring**
+- Cloud & backend architecture
+- AI / computer vision
+- Mobile applications
+- Indie game development
+
+</td>
+<td width="42%" valign="top">
+
+### `~/status`
+
+```text
+ROLE      Software Engineer
+FOCUS     Build & experiment
+MODE      Always learning
+LOCATION  Somewhere in code
+```
+
+[![Profile views](https://komarev.com/ghpvc/?username=nityakapur&style=flat-square&color=6D5BA6&label=PROFILE+VIEWS)](https://github.com/nityakapur)
+
+</td>
+</tr>
+</table>
+
+---
+
+### `01 / TECH STACK`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,js,ts,gcp,docker,git,githubactions&theme=dark&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,firebase,postgres,html,css,phaser&theme=dark&perline=8" />
 
 </div>
 
 ---
 
-<!-- STATUS -->
-<h3 align="center">◈ CURRENTLY IN MY WORKSPACE</h3>
+### `02 / PROJECT ARCHIVE`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| `ENGINEERING` | `EXPERIMENTING` | `SIDE QUEST` |
-|:---:|:---:|:---:|
-| Backend & Cloud | AI / Computer Vision | Indie Game Dev |
-| Java · Spring · GCP | Python · ML · CV | React · Phaser |
- 
-</div>
+**[YOGA POSE DETECTION](https://github.com/nityakapur/yoga_pose_detection)**
 
----
+Computer vision · Deep learning
 
-<!-- TECH -->
-<h3 align="center">◈ MY TOOLBOX</h3>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+**[MEDICAL REPORT ANALYZER](https://github.com/nityakapur/medical-report-analyzer)**
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,react,js,ts,gcp,docker,git,githubactions&perline=5" />
+AI · Document analysis
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,firebase,postgres,html,css,androidstudio,phaser&perline=5" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+**[CIFAR-10 ANALYSIS](https://github.com/nityakapur/CIFAR-10-Analysis)**
 
----
+Image classification · ML
 
-<!-- PROJECTS -->
-<h3 align="center">◈ SELECTED SIDE QUESTS</h3>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+**[ML FROM SCRATCH](https://github.com/nityakapur/ml-from-scratch-repo)**
 
-<a href="https://github.com/nityakapur/yoga_pose_detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nityakapur&repo=yoga_pose_detection&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nityakapur/medical-report-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nityakapur&repo=medical-report-analyzer&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nityakapur/CIFAR-10-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nityakapur&repo=CIFAR-10-Analysis&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nityakapur/ml-from-scratch-repo">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nityakapur&repo=ml-from-scratch-repo&theme=tokyonight&hide_border=true" />
-</a>
+Machine learning · Fundamentals
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- STATS -->
-<h3 align="center">◈ GITHUB ACTIVITY</h3>
+### `03 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityakapur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=nityakapur&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&rank_icon=github" />
 
-<img src="https://streak-stats.demolab.com?user=nityakapur&theme=tokyonight&hide_border=true" width="50%" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityakapur&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=nityakapur&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
 
 </div>
 
 ---
 
-<!-- CURRENTLY -->
+### `04 / RESEARCH`
+
+**[Sentiment to Signal: A Comparative Analysis of Neural Models for Emotion Recognition](https://ieeexplore.ieee.org/document/10984051)**
+
+IEEE publication · Neural networks · Emotion recognition
+
+---
+
 <div align="center">
 
-### `~/currently`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:433878,50:252044,100:111827&height=65&section=footer" width="100%" />
 
-**Learning:** Cloud architecture · Mobile development · Game development
+<sub>DESIGNED TO BUILD · CURIOUS BY DEFAULT · ALWAYS IN BETA</sub>
 
-**Building:** Independent apps · Tiny worlds · Developer tools
-
-**Believing:** The best projects often start as random ideas.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5427A8,50:171B35,100:0D1117&height=100&section=footer" width="100%" />
-
-<sub>BUILD / EXPLORE / BREAK / REPEAT. 
+</div>
