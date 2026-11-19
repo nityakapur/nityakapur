@@ -36,8 +36,6 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,react,js,ts,gcp,docker,git,githubactions&perline=5" />
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,firebase,postgres,html,css,androidstudio,phaser&perline=5" />
 
 </div>
