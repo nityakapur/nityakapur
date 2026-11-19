@@ -1,31 +1,97 @@
-<h2 align="left">Hi there, I'm Nitya Kapur!</h1>
-<h3 align="left">A GenAI & Computer Vision Enthusiast 🚀</h3>
+<!-- HEADER -->
+<div align="center">
 
-<p align="left">
-  👯 Looking to collaborate on <strong>Machine Learning / Deep Learning Projects</strong><br>
-  📝 Blog: <a href="https://dsafordummies.digitalpress.blog/" target="_blank">dsafordummies.digitalpress.blog</a><br>
-  📫 Reach me at: <a href="mailto:nityakapurr@gmail.com">nityakapurr@gmail.com</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:171B35,100:5427A8&height=180&section=header&text=NITYA.EXE&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%20BUILDER%20%2F%20EXPLORER&descAlignY=60&descSize=14" width="100%" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=7CDBA5&center=true&vCenter=true&width=600&lines=Building+things+that+should+exist.;Curiosity+is+my+favourite+dependency.;Engineering+by+day.+Side+quests+by+night.;BUILD+%2F+EXPLORE+%2F+BREAK+%2F+REPEAT." />
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<br/>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img title="Python" alt="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-  <a href="https://pytorch.org/" target="_blank"><img title="PyTorch" alt="PyTorch" width="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img title="TensorFlow" alt="TensorFlow" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img title="Scikit-Learn" alt="Scikit-Learn" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a>
-  <a href="https://opencv.org/" target="_blank"><img title="OpenCV" alt="OpenCV" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img title="Pandas" alt="Pandas" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img title="Seaborn" alt="Seaborn" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img title="C Language" alt="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img title="C++" alt="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-</p>
+<a href="https://github.com/nityakapur"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nitya-kapur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/nityakapur"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+
+</div>
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nityakapur&show_icons=true&locale=en&layout=compact" alt="nityakapur"/>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nityakapur&" alt="nityakapur" /></p>
+<!-- STATUS -->
+<h3 align="center">◈ CURRENTLY IN MY WORKSPACE</h3>
+
+<div align="center">
+
+| `ENGINEERING` | `EXPERIMENTING` | `SIDE QUEST` |
+|:---:|:---:|:---:|
+| Backend & Cloud | AI / Computer Vision | Indie Game Dev |
+| Java · Spring · GCP | Python · ML · CV | React · Phaser |
+ 
+</div>
+
+---
+
+<!-- TECH -->
+<h3 align="center">◈ MY TOOLBOX</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,react,js,ts,gcp,docker,git,githubactions&perline=5" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,firebase,postgres,html,css,androidstudio,phaser&perline=5" />
+
+</div>
+
+---
+
+<!-- PROJECTS -->
+<h3 align="center">◈ SELECTED SIDE QUESTS</h3>
+
+<div align="center">
+
+<a href="https://github.com/nityakapur/yoga_pose_detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nityakapur&repo=yoga_pose_detection&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nityakapur/medical-report-analyzer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nityakapur&repo=medical-report-analyzer&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nityakapur/CIFAR-10-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nityakapur&repo=CIFAR-10-Analysis&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nityakapur/ml-from-scratch-repo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nityakapur&repo=ml-from-scratch-repo&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+<!-- STATS -->
+<h3 align="center">◈ GITHUB ACTIVITY</h3>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityakapur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=nityakapur&theme=tokyonight&hide_border=true" width="50%" />
+
+</div>
+
+---
+
+<!-- CURRENTLY -->
+<div align="center">
+
+### `~/currently`
+
+**Learning:** Cloud architecture · Mobile development · Game development
+
+**Building:** Independent apps · Tiny worlds · Developer tools
+
+**Believing:** The best projects often start as random ideas.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5427A8,50:171B35,100:0D1117&height=100&section=footer" width="100%" />
+
+<sub>BUILD / EXPLORE / BREAK / REPEAT. 
